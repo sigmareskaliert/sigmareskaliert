@@ -1,32 +1,26 @@
 
-++ Army Roster (Xenos - Leagues of Votann) [500pts] ++
+++ Army Roster (Imperium - Ultramarines) [500pts] ++
 
 + Configuration +
 
 Battle Size: 1. Incursion (1000 Point limit)
 
-Detachment Choice: Oathband
+Detachment Choice: Courage and Honor
 
 Show/Hide Options: Legends are visible, Unaligned Forces are visible, Unaligned Fortifications are visible
 
 + Epic Hero +
 
-Ûthar the Destined [90pts]: Blade of the Ancestors, Rampart crest, Volkanite disintegrator, Warlord
+Robute Guilliman [90pts]: Blade of the Emperor, Armor of Fate
 
 + Battleline +
 
-Hearthkyn Warriors [110pts]: Comms array, Medipack, Pan spectral scanner
-. 7x Hearthkyn Warrior: 7x Autoch-pattern bolt pistol, 7x Close combat weapon, 7x Ion blaster
-. Hearthkyn Warrior w/ heavy weapon: Autoch-pattern bolt pistol, Close combat weapon, Magna-rail rifle*
-. Hearthkyn Warrior w/ heavy weapon: Autoch-pattern bolt pistol, Close combat weapon, HYLas auto rifle*
-. Theyn: Close combat weapon, Etacarn plasma pistol, Kin melee weapon, Weavefield crest
+Victrix Guard [110pts]: Courage, Honor
 
 + Infantry +
 
-Einhyr Hearthguard [300pts]
-. 9x Einhyr Hearthguard: 9x Concussion gauntlet, 9x Exo-armour grenade launcher, 9x Volkanite disintegrator
-. Hesyr: Concussion gauntlet, Exo-armour grenade launcher, Teleport crest, Volkanite disintegrator
+Intercessor Squad [300pts]
 
 ++ Total: [500pts] ++
 
-Created with BattleScribe (https://battlescribe.net)
+Created by hand
