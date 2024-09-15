@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Alpengringo",
-        "excerpt":" ","categories": [],
+        "excerpt":"bla bla  ","categories": [],
         "tags": [],
         "url": "/sigmareskaliert/spielerinnen/alpengringo",
         "teaser": null
