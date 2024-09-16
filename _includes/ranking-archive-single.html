@@ -10,7 +10,7 @@
   {% assign time_frame = "Gesamte Liga" %}
 {% elsif post.phase and site.data.phases[post.phase] %}
   {% assign phase = site.data.phases[post.phase] %}
-  {% assign ranking_title = "Escalation " | append: phase.name %}
+  {% assign ranking_title = "Sigmar Eskaliert " | append: phase.name %}
   {% assign time_frame = phase.time_frame %}
 {% endif %}
 

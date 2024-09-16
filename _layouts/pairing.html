@@ -11,7 +11,7 @@ layout: default
 <div id="main" role="main">
 {% if page.phase and site.data.phases[page.phase] %}
   {% assign phase = site.data.phases[page.phase] %}
-  {% assign pairing_title = "Escalation " | append: phase.name %}
+  {% assign pairing_title = "Sigmar Eskaliert " | append: phase.name %}
 {% endif %}
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
         {% if pairing_title %}<meta itemprop="headline" content="{{ pairing_title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -29,7 +29,7 @@ layout: default
 
       <section class="page__content e-content" itemprop="text">
         {% if phase %}
-          <p>Runde {{ page.phase }} der Supernova Escalation Liga.</p>
+          <p>Runde {{ page.phase }} der Sigmar Eskaliert Liga.</p>
           {% if phase.mission %}<p>{{ phase.mission }}</p>{% endif %}
         {% endif %}
 

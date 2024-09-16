@@ -14,7 +14,7 @@ layout: default
   {% assign ranking_title = "Gesamttabelle" %}
 {% elsif page.phase and site.data.phases[page.phase] %}
   {% assign phase = site.data.phases[page.phase] %}
-  {% assign ranking_title = "Escalation " | append: phase.name %}
+  {% assign ranking_title = "Sigmar Eskaliert " | append: phase.name %}
 {% endif %}
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
         {% if ranking_title %}<meta itemprop="headline" content="{{ ranking_title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -36,7 +36,7 @@ layout: default
 
       <section class="page__content e-content" itemprop="text">
         {% if phase and phase == "total" %}
-          <p>Geamttabelle der Supernova Escalation Liga.</p>
+          <p>Geamttabelle der Sigmar Eskaliert Liga.</p>
 
           {% for paring_data in site.data.pairings %}
             {% if pairings %}
@@ -47,7 +47,7 @@ layout: default
           {% endfor %}
 
         {% elsif phase %}
-          <p>Runde {{ page.phase }} der Supernova Escalation Liga.</p>
+          <p>Runde {{ page.phase }} der Sigmar Eskaliert Liga.</p>
           {% if phase.mission %}<p>{{ phase.mission }}</p>{% endif %}
 
           {% if site.data.pairings[phase.paring_data] %}
@@ -80,14 +80,14 @@ layout: default
                   {% assign games = games | plus: 1 %}
                 {% endif %}
                 {% if pairing.painted_a and pairing.painted_a == 'true' %}
-                  {% assign painted = painted | plus: 1 %}
+                  {% assign painted = painted | plus: 5 %}
                 {% endif %}
               {% elsif pairing.player_b == player %}
                 {% if pairing.present_b and pairing.present_b == 'true' %}
                   {% assign games = games | plus: 1 %}
                 {% endif %}
                 {% if pairing.painted_b and pairing.painted_b == 'true' %}
-                  {% assign painted = painted | plus: 1 %}
+                  {% assign painted = painted | plus: 5 %}
                 {% endif %}
               {% endif %}
               {% if pairing.winner == player %}

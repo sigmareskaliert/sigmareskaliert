@@ -1,2 +1,5 @@
 player_a,player_b,present_a,present_b,painted_a,painted_b,score,winner
-alpengringo,alpengringo,true,true,true,true,49-30,alpengringo
+karazor,sal,true,true,true,true,49-30,karazor
+karazor,sluki,true,true,false,false,49-30,sluki
+sox2o2,sal,true,true,false,false,49-30,sox2o2
+sox2o2,sluki,true,true,true,true,49-30,sox2o2
