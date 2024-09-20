@@ -1,8 +1,8 @@
 ---
 layout: player
-name: Sluki und Sal
+name: Sluki & Sal
 displayname: Second Breakfast Boys
-army: Gloomspite Gitz und tba
+army: Gloomspite Gitz & tba
 team: Second Breakfast Boys
 filename: secondbreakfastboys
 phases: [1]
