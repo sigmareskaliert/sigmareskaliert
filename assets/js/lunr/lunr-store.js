@@ -47,6 +47,12 @@ var store = [{
         "url": "/sigmareskaliert/spielerinnen/chorche",
         "teaser": null
       },{
+        "title": "Dieburschenausdem14",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/sigmareskaliert/spielerinnen/dieburschenausdem14",
+        "teaser": null
+      },{
         "title": "Dkov",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -225,6 +231,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/sigmareskaliert/spielerinnen/scurvymcg",
+        "teaser": null
+      },{
+        "title": "Secondbreakfastboys",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/sigmareskaliert/spielerinnen/secondbreakfastboys",
         "teaser": null
       },{
         "title": "Sluki",
