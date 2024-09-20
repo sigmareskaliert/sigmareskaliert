@@ -74,27 +74,64 @@ layout: default
             {% assign games = 0 %}
             {% assign painted = 0 %}
             {% assign wins = 0 %}
+            {% assign teamwin = 0 %}
             {% for pairing in pairings %}
               {% if pairing.player_a == player %}
                 {% if pairing.present_a and pairing.present_a == 'true' %}
                   {% assign games = games | plus: 1 %}
                 {% endif %}
+                {% if pairing.present_a_r2 and pairing.present_a_r2 == 'true' %}
+                  {% assign games = games | plus: 1 %}
+                {% endif %}
                 {% if pairing.painted_a and pairing.painted_a == 'true' %}
+                  {% assign painted = painted | plus: 5 %}
+                {% endif %}
+                {% if pairing.present_a_p2 and pairing.present_a_p2 == 'true' %}
+                  {% assign games = games | plus: 1 %}
+                {% endif %}
+                {% if pairing.present_a_p2_r2 and pairing.present_a_p2_r2 == 'true' %}
+                  {% assign games = games | plus: 1 %}
+                {% endif %}
+                {% if pairing.painted_a_p2 and pairing.painted_a_p2 == 'true' %}
                   {% assign painted = painted | plus: 5 %}
                 {% endif %}
               {% elsif pairing.player_b == player %}
                 {% if pairing.present_b and pairing.present_b == 'true' %}
                   {% assign games = games | plus: 1 %}
                 {% endif %}
+                {% if pairing.present_b_r2 and pairing.present_b_r2 == 'true' %}
+                  {% assign games = games | plus: 1 %}
+                {% endif %}
                 {% if pairing.painted_b and pairing.painted_b == 'true' %}
+                  {% assign painted = painted | plus: 5 %}
+                {% endif %}
+                {% if pairing.present_b_p2 and pairing.present_b_p2 == 'true' %}
+                  {% assign games = games | plus: 1 %}
+                {% endif %}
+                {% if pairing.present_b_p2_r2 and pairing.present_b_p2_r2 == 'true' %}
+                  {% assign games = games | plus: 1 %}
+                {% endif %}
+                {% if pairing.painted_b_p2 and pairing.painted_b_p2 == 'true' %}
                   {% assign painted = painted | plus: 5 %}
                 {% endif %}
               {% endif %}
               {% if pairing.winner == player %}
                 {% assign wins = wins | plus: 1 %}
               {% endif %}
+              {% if pairing.winner_p2 == player %}
+                {% assign wins = wins | plus: 1 %}
+              {% endif %}
+              {% if pairing.winner_r2 == player %}
+                {% assign wins = wins | plus: 1 %}
+              {% endif %}
+              {% if pairing.winner_p2_r2 == player %}
+                {% assign wins = wins | plus: 1 %}
+              {% endif %}
+              {% if pairing.teamwin == player %}
+                {% assign teamwin = teamwins | plus: 2 %}
+              {% endif %}
             {% endfor %}
-            {% assign score = games | plus: painted | plus: wins %}
+            {% assign score = games | plus: painted | plus: wins | plus: teamwin %}
             {% capture ranking %}
               {{ player }},{{ games }},{{ painted }},{{ wins }},{{ score }}
             {% endcapture %}

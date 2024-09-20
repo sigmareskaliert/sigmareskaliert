@@ -1,5 +1,2 @@
-player_a,player_b,present_a,present_b,painted_a,painted_b,score,winner
-karazor,sal,true,true,true,true,49-30,karazor
-karazor,sluki,true,true,false,false,49-30,sluki
-sox2o2,sal,true,true,false,false,49-30,sox2o2
-sox2o2,sluki,true,true,true,true,49-30,sox2o2
+player_a,player_b,present_a,present_a_r2,present_b,present_b_r2,painted_a,painted_b,present_a_p2,present_a_p2_r2,present_b_p2,present_b_p2_r2,painted_a_p2,painted_b_p2,winner,winner_p2,winner_r2,winner_p2_r2,teamwin,score
+dieburschenausdem14,secondbreakfastboys,true,true,true,false,true,false,true,true,true,true,true,true,dieburschenausdem14,dieburschenausdem14,secondbreakfastboys,secondbreakfastboys,dieburschenausdem14,20-0
