@@ -5,46 +5,34 @@ var store = [{
         "url": "/sigmareskaliert/paarungen/phase1-paarung",
         "teaser": null
       },{
-        "title": "Aegyptischerpoebelsschaedl",
+        "title": "Allesgrau",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/aegyptischerpoebelsschaedl",
+        "url": "/sigmareskaliert/spielerinnen/allesgrau",
         "teaser": null
       },{
-        "title": "Alpengringo",
+        "title": "Armoredtotheteeth",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/alpengringo",
+        "url": "/sigmareskaliert/spielerinnen/armoredtotheteeth",
         "teaser": null
       },{
-        "title": "Apfeltasche2522",
+        "title": "Bananenbrot",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/apfeltasche2522",
+        "url": "/sigmareskaliert/spielerinnen/bananenbrot",
         "teaser": null
       },{
-        "title": "Bananalee",
+        "title": "Brothersofchaos",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/bananalee",
+        "url": "/sigmareskaliert/spielerinnen/brothersofchaos",
         "teaser": null
       },{
-        "title": "Bennz",
+        "title": "Die2vonder3",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/bennz",
-        "teaser": null
-      },{
-        "title": "Buythedip",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/buythedip",
-        "teaser": null
-      },{
-        "title": "Chorche",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/chorche",
+        "url": "/sigmareskaliert/spielerinnen/die2vonder3",
         "teaser": null
       },{
         "title": "Dieburschenausdem14",
@@ -53,184 +41,76 @@ var store = [{
         "url": "/sigmareskaliert/spielerinnen/dieburschenausdem14",
         "teaser": null
       },{
-        "title": "Dkov",
+        "title": "Disgustingly",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/dkov",
+        "url": "/sigmareskaliert/spielerinnen/disgustingly",
         "teaser": null
       },{
-        "title": "Exemplarofmontka",
+        "title": "Gloomlords",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/exemplarofmontka",
+        "url": "/sigmareskaliert/spielerinnen/gloomlords",
         "teaser": null
       },{
-        "title": "Flo",
+        "title": "Greyarmychads",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/flo",
+        "url": "/sigmareskaliert/spielerinnen/greyarmychads",
         "teaser": null
       },{
-        "title": "Frosch0",
+        "title": "Heiligshaemmerle",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/frosch0",
+        "url": "/sigmareskaliert/spielerinnen/heiligshaemmerle",
         "teaser": null
       },{
-        "title": "Grizzlyne",
+        "title": "Lungenstirdler",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/grizzlyne",
+        "url": "/sigmareskaliert/spielerinnen/lungenstirdler",
         "teaser": null
       },{
-        "title": "Hemeroc",
+        "title": "Lustrians",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/hemeroc",
+        "url": "/sigmareskaliert/spielerinnen/lustrians",
         "teaser": null
       },{
-        "title": "Internationalbaker",
+        "title": "Oakboooyz",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/internationalbaker",
+        "url": "/sigmareskaliert/spielerinnen/oakboooyz",
         "teaser": null
       },{
-        "title": "Jockl",
+        "title": "Offen1",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/jockl",
+        "url": "/sigmareskaliert/spielerinnen/offen1",
         "teaser": null
       },{
-        "title": "Kanemotri",
+        "title": "Offen2",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/kanemotri",
+        "url": "/sigmareskaliert/spielerinnen/offen2",
         "teaser": null
       },{
-        "title": "Karazor",
+        "title": "Ratsandladz",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/karazor",
+        "url": "/sigmareskaliert/spielerinnen/ratsandladz",
         "teaser": null
       },{
-        "title": "Keksdesgrauens",
+        "title": "Risc",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/keksdesgrauens",
+        "url": "/sigmareskaliert/spielerinnen/risc",
         "teaser": null
       },{
-        "title": "Lunaticredfire",
+        "title": "Schuppenbrueder",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/lunaticredfire",
-        "teaser": null
-      },{
-        "title": "Lupublic",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/lupublic",
-        "teaser": null
-      },{
-        "title": "Martinuzzi",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/martinuzzi",
-        "teaser": null
-      },{
-        "title": "Naberius",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/naberius",
-        "teaser": null
-      },{
-        "title": "Occo",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/occo",
-        "teaser": null
-      },{
-        "title": "Oppagandalf",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/oppagandalf",
-        "teaser": null
-      },{
-        "title": "Orome",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/orome",
-        "teaser": null
-      },{
-        "title": "Papa0din",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/papa0din",
-        "teaser": null
-      },{
-        "title": "Rafael",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/rafael",
-        "teaser": null
-      },{
-        "title": "Razhak",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/razhak",
-        "teaser": null
-      },{
-        "title": "Recoil",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/recoil",
-        "teaser": null
-      },{
-        "title": "Rem",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/rem",
-        "teaser": null
-      },{
-        "title": "Riesa",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/riesa",
-        "teaser": null
-      },{
-        "title": "Robgee00",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/robgee00",
-        "teaser": null
-      },{
-        "title": "Roman",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/roman",
-        "teaser": null
-      },{
-        "title": "Sal",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/sal",
-        "teaser": null
-      },{
-        "title": "Schmidi",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/schmidi",
-        "teaser": null
-      },{
-        "title": "Schwarmbruder",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/schwarmbruder",
-        "teaser": null
-      },{
-        "title": "Scurvymcg",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/scurvymcg",
+        "url": "/sigmareskaliert/spielerinnen/schuppenbrueder",
         "teaser": null
       },{
         "title": "Secondbreakfastboys",
@@ -239,40 +119,16 @@ var store = [{
         "url": "/sigmareskaliert/spielerinnen/secondbreakfastboys",
         "teaser": null
       },{
-        "title": "Sluki",
+        "title": "Skavestodarkness",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/sluki",
+        "url": "/sigmareskaliert/spielerinnen/skavestodarkness",
         "teaser": null
       },{
-        "title": "Sox2o2",
+        "title": "Skylizard",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/sox2o2",
-        "teaser": null
-      },{
-        "title": "Stardewd",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/stardewd",
-        "teaser": null
-      },{
-        "title": "Vivoo",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/vivoo",
-        "teaser": null
-      },{
-        "title": "Whitewolfat",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/whitewolfat",
-        "teaser": null
-      },{
-        "title": "Yasuschristus",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/yasuschristus",
+        "url": "/sigmareskaliert/spielerinnen/skylizard",
         "teaser": null
       },{
         "title": "Phase0_rangliste",
