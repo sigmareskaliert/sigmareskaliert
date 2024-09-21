@@ -41,10 +41,10 @@ var store = [{
         "url": "/sigmareskaliert/spielerinnen/dieburschenausdem14",
         "teaser": null
       },{
-        "title": "Disgustingly",
+        "title": "Disgustinglyhungry",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/disgustingly",
+        "url": "/sigmareskaliert/spielerinnen/disgustinglyhungry",
         "teaser": null
       },{
         "title": "Gloomlords",
@@ -65,10 +65,10 @@ var store = [{
         "url": "/sigmareskaliert/spielerinnen/heiligshaemmerle",
         "teaser": null
       },{
-        "title": "Lungenstirdler",
+        "title": "Lungenstirdlersohn",
         "excerpt":" ","categories": [],
         "tags": [],
-        "url": "/sigmareskaliert/spielerinnen/lungenstirdler",
+        "url": "/sigmareskaliert/spielerinnen/lungenstirdlersohn",
         "teaser": null
       },{
         "title": "Lustrians",
