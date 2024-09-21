@@ -1,9 +1,9 @@
 ---
 layout: player
-name: Exemplar of Mont’ka & Ägyptischer PöbelsSchädl
-displayname: Alles Grau
-army: Sylvaneth und Soulblight Gravelords
-team: Alles Grau
-filename: allesgrau
+name: Keksdesgrauens & BuytheDip 
+displayname: Skaves to Darkness
+army: tba & Slaves to Darkness
+team: Skaves to Darkness
+filename: skavestodarkness
 phases: [1]
 ---

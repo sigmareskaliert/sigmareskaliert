@@ -1,9 +1,9 @@
 ---
 layout: player
-name: Exemplar of Mont’ka & Ägyptischer PöbelsSchädl
-displayname: Alles Grau
-army: Sylvaneth und Soulblight Gravelords
-team: Alles Grau
-filename: allesgrau
+name: Jockl & Rafael
+displayname: Rats and Ladz
+army: Kruleboyz & Skaven
+team: Rats and Ladz
+filename: ratsandladz
 phases: [1]
 ---

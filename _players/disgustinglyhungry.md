@@ -1,0 +1,9 @@
+---
+layout: player
+name: dkov & Oppagandalf
+displayname: Disgustingly Hungry
+army: Maggotkin of Nurgle & Ogor Mawtribes
+team: Disgustingly Hungry
+filename: disgustinglyhungry
+phases: [1]
+---

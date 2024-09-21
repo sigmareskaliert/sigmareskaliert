@@ -1,9 +1,9 @@
 ---
 layout: player
-name: Exemplar of Mont’ka & Ägyptischer PöbelsSchädl
-displayname: Alles Grau
-army: Sylvaneth und Soulblight Gravelords
-team: Alles Grau
-filename: allesgrau
+name: Claudio "Bachmut" Martinuzzi & Razhak
+displayname: offen2
+army: tba & Lumineth Realm-lords
+team: offen2
+filename: offen2
 phases: [1]
 ---

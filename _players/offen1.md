@@ -1,9 +1,9 @@
 ---
 layout: player
-name: Exemplar of Mont’ka & Ägyptischer PöbelsSchädl
-displayname: Alles Grau
-army: Sylvaneth und Soulblight Gravelords
-team: Alles Grau
-filename: allesgrau
+name: Grizzlyne & Papa0din
+displayname: offen1
+army: tba & tba
+team: offen1
+filename: offen1
 phases: [1]
 ---

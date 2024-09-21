@@ -1,9 +1,9 @@
 ---
 layout: player
-name: Exemplar of Mont’ka & Ägyptischer PöbelsSchädl
-displayname: Alles Grau
-army: Sylvaneth und Soulblight Gravelords
-team: Alles Grau
-filename: allesgrau
+name: KaneMotri & ScurvyMcG
+displayname: Gloomlords
+army: tba & tba
+team: Gloomlords
+filename: gloomlords
 phases: [1]
 ---
