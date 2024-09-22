@@ -2,7 +2,7 @@
 layout: player
 name: KaneMotri & ScurvyMcG
 displayname: Gloomlords
-army: tba & tba
+army: Soulblight Gravelords & Gloomspite Gitz
 team: Gloomlords
 filename: gloomlords
 phases: [1]
