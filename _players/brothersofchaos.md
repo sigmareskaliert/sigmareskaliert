@@ -1,7 +1,7 @@
 ---
 layout: player
 name: Michael"Naberius" & @Hemeroc/Nicolas
-displayname: Alles Grau
+displayname: Brothers of Chaos
 army: Skaven & Slaves to Darkness
 team: Brothers of Chaos
 filename: brothersofchaos
