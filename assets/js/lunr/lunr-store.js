@@ -5,6 +5,12 @@ var store = [{
         "url": "/sigmareskaliert/paarungen/phase1-paarung",
         "teaser": null
       },{
+        "title": "Phase2_paarung",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/sigmareskaliert/paarungen/phase2-paarung",
+        "teaser": null
+      },{
         "title": "Allesgrau",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -75,6 +81,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/sigmareskaliert/spielerinnen/lustrians",
+        "teaser": null
+      },{
+        "title": "Moremorewaaagh",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/sigmareskaliert/spielerinnen/moremorewaaagh",
         "teaser": null
       },{
         "title": "Oakboooyz",
