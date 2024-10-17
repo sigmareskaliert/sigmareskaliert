@@ -5,5 +5,5 @@ displayname: Skaves to Darkness
 army: Skaven & Slaves to Darkness
 team: Skaves to Darkness
 filename: skavestodarkness
-phases: [1]
+phases: [1,2]
 ---

@@ -5,5 +5,5 @@ displayname: Armored to the teeth
 army: Sylvaneth & Soulblight Gravelords
 team: Flesh Eater Courts to the teeth
 filename: armoredtotheteeth
-phases: [1]
+phases: [1,2]
 ---

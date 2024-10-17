@@ -5,5 +5,5 @@ displayname: Alles Grau
 army: Sylvaneth & Soulblight Gravelords
 team: Alles Grau
 filename: allesgrau
-phases: [1]
+phases: [1,2]
 ---

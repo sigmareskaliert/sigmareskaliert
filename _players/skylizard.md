@@ -5,5 +5,5 @@ displayname: Skylizard
 army: Seraphon & Kharadron Overlords
 team: Skylizard
 filename: skylizard
-phases: [1]
+phases: [1,2]
 ---

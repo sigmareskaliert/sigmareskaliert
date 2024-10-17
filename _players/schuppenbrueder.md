@@ -5,5 +5,5 @@ displayname: Schuppenbrüder
 army: Seraphon & Seraphon
 team: Schuppenbrüder
 filename: schuppenbrueder
-phases: [1]
+phases: [1,2]
 ---

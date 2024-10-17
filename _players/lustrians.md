@@ -5,5 +5,5 @@ displayname: Lustrians
 army: Seraphon & Skaven
 team: Lustrians
 filename: lustrians
-phases: [1]
+phases: [1,2]
 ---

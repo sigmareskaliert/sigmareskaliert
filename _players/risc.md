@@ -5,5 +5,5 @@ displayname: RISC
 army: Soulblight Gravelords & Kruleboyz
 team: RISC
 filename: risc
-phases: [1]
+phases: [1,2]
 ---

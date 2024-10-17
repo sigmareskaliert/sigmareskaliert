@@ -167,7 +167,7 @@ layout: default
           <!-- Output player ranking data in table -->
           <table>
             <thead>
-              <tr><td>Platzierung</td><td>Spieler:in</td><td>Spiele</td><td>Bemalt</td><td>Siege</td><td>Punkte</td></tr>
+              <tr><td>Spieler:in</td><td>Spiele</td><td>Bemalt</td><td>Siege</td><td>Punkte</td></tr>
             </thead>
             <tbody>
 
@@ -185,7 +185,7 @@ layout: default
             {% else %}
               {% assign player_text = player_data.displayname %}
             {% endif %}
-            <tr><td>{{ placement }}</td><td><a href ="{% link {{ player_path }} %}">{{ player_text }}</a></td><td>{{ ranking[1] }}</td><td>{{ ranking[2] }}</td><td>{{ ranking[3] }}</td><td>{{ ranking[4] }}</td></tr>
+            <tr><td><a href ="{% link {{ player_path }} %}">{{ player_text }}</a></td><td>{{ ranking[1] }}</td><td>{{ ranking[2] }}</td><td>{{ ranking[3] }}</td><td>{{ ranking[4] }}</td></tr>
           {% endfor %}
 
             </tbody>

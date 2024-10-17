@@ -5,3 +5,10 @@
   #map: phase1_vitalground
   time_frame: Monat September
   paring_data: phase1
+2:
+  name: Phase II
+  points: Spearhead2 
+  mission: "Spearhead2"
+  #map: phase1_vitalground
+  time_frame: Monat Oktober
+  paring_data: phase2

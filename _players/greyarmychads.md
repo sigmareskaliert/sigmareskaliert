@@ -2,8 +2,8 @@
 layout: player
 name: <KDFSM> Recoil & Occo Michi
 displayname: Grey Army Chads
-army: Cities of Sigmar  & Fyreslayers/Seraphon
+army: Daughter of Khaine  & Fyreslayers/Seraphon
 team: Grey Army Chads
 filename: greyarmychads
-phases: [1]
+phases: [1,2]
 ---
