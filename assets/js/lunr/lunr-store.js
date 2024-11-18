@@ -154,4 +154,10 @@ var store = [{
         "tags": [],
         "url": "/sigmareskaliert/ranglisten/phase1-rangliste",
         "teaser": null
+      },{
+        "title": "Phase2_rangliste",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/sigmareskaliert/ranglisten/phase2-rangliste",
+        "teaser": null
       }]
