@@ -128,7 +128,7 @@ layout: default
                 {% assign wins = wins | plus: 1 %}
               {% endif %}
               {% if pairing.teamwin == player %}
-                {% assign teamwin = teamwins | plus: 2 %}
+                {% assign teamwin = teamwin | plus: 2 %}
               {% endif %}
             {% endfor %}
             {% assign score = games | plus: painted | plus: wins | plus: teamwin %}
