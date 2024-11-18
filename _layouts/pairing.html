@@ -57,7 +57,7 @@ layout: default
               {% assign player_b_text = player_data_b.displayname | append: " (" | append: player_data_b.team | append: ")" %}
             {% endif%}
             {% if pairing.winner %}
-              {% assign winner_data = site.players | where: "filename", pairing.winner | first %}
+              {% assign winner_data = site.players | where: "filename", pairing.teamwin | first %}
             {% endif %}
 
             <tr>
