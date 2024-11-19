@@ -11,6 +11,12 @@ var store = [{
         "url": "/sigmareskaliert/paarungen/phase2-paarung",
         "teaser": null
       },{
+        "title": "Phase3_paarung",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/sigmareskaliert/paarungen/phase3-paarung",
+        "teaser": null
+      },{
         "title": "Allesgrau",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -143,6 +149,12 @@ var store = [{
         "url": "/sigmareskaliert/spielerinnen/skylizard",
         "teaser": null
       },{
+        "title": "Sonsofdeepkin",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/sigmareskaliert/spielerinnen/sonsofdeepkin",
+        "teaser": null
+      },{
         "title": "Phase0_rangliste",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -159,5 +171,11 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/sigmareskaliert/ranglisten/phase2-rangliste",
+        "teaser": null
+      },{
+        "title": "Phase3_rangliste",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/sigmareskaliert/ranglisten/phase3-rangliste",
         "teaser": null
       }]
