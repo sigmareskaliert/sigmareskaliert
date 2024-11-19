@@ -5,5 +5,5 @@ displayname: Rats and Ladz
 army: Kruleboyz & Skaven
 team: Rats and Ladz
 filename: ratsandladz
-phases: [1,2]
+phases: [1,2,3]
 ---

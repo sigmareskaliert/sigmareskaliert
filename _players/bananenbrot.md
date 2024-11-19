@@ -5,5 +5,5 @@ displayname: Bananenbrot
 army: Kharadron Overlords & Soulblight Gravelords
 team: Bananenbrot
 filename: bananenbrot
-phases: [1,2]
+phases: [1,2,3]
 ---
