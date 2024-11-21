@@ -26,3 +26,10 @@ An diser Stelle ein paar Vereine und Spielelokale an denen ihr eure Liga Spiele 
 * Adresse: [Holochergasse 53, 1150 Wien](https://maps.app.goo.gl/FTVZVSwaRJ4F8dzq9)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2659.319161010728!2d16.3241046!3d48.200468099999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07f936f0d41f%3A0xfe6f4cb701081a39!2sWOW-Keepers!5e0!3m2!1sde!2sat!4v1707067434654!5m2!1sde!2sat" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### ![](../assets/images/warlockswarehouse.png) Warlocks Warehouse
+
+* Kontakt: [Kontaktformular](https://www.warlocks-warehouse.com/contact/)
+* Adresse: [Gödelgasse 6, 1100 Wien](https://maps.app.goo.gl/xWZikVp3K2heZHucA)
+
+<iframe src="https://www.google.com/maps/embed/v1/place?q=Warlock's+Warehouse&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
