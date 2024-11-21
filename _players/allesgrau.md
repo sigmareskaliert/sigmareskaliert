@@ -1,6 +1,6 @@
 ---
 layout: player
-name: Exemplar of Mont’ka & Ägyptischer PöbelsSchädl
+name: ackstr2.0 & Ägyptischer PöbelsSchädl
 displayname: Alles Grau
 army: Sylvaneth & Soulblight Gravelords
 team: Alles Grau

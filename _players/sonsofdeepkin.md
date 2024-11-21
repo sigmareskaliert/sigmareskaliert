@@ -2,7 +2,7 @@
 layout: player
 name: Grimm & Army
 displayname: Sons of Deepkin
-army: TBA & TBA
+army: Sons of Behemat & Idoneth Deepkin
 team: Sons of Deepkin
 filename: sonsofdeepkin
 phases: [3]
