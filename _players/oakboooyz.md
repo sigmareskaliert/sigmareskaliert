@@ -5,5 +5,5 @@ displayname: Oak Boooyz
 army: Sylvaneth & Slaves to Darkness
 team: Oak Boooyz
 filename: oakboooyz
-phases: [1,2,3]
+phases: [1,2,3,4]
 ---

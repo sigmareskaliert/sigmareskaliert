@@ -5,5 +5,5 @@ displayname: Heilig‘s Hämmerle
 army: Skaven & Slaves to Darkness
 team: Heilig‘s Hämmerle
 filename: heiligshaemmerle
-phases: [1,2,3]
+phases: [1,2,3,4]
 ---
