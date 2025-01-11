@@ -17,6 +17,12 @@ var store = [{
         "url": "/sigmareskaliert/paarungen/phase3-paarung",
         "teaser": null
       },{
+        "title": "Phase4_paarung",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/sigmareskaliert/paarungen/phase4-paarung",
+        "teaser": null
+      },{
         "title": "Allesgrau",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -33,6 +39,12 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/sigmareskaliert/spielerinnen/bananenbrot",
+        "teaser": null
+      },{
+        "title": "Bonestodarkness",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/sigmareskaliert/spielerinnen/bonestodarkness",
         "teaser": null
       },{
         "title": "Brothersofchaos",
@@ -177,5 +189,11 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/sigmareskaliert/ranglisten/phase3-rangliste",
+        "teaser": null
+      },{
+        "title": "Phase4_rangliste",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/sigmareskaliert/ranglisten/phase4-rangliste",
         "teaser": null
       }]
