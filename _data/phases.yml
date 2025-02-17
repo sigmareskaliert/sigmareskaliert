@@ -26,3 +26,10 @@
   #map: phase1_vitalground
   time_frame: Monat Jänner
   paring_data: phase4
+5:
+  name: Phase IIIII
+  points: 1500
+  mission: "1500 Punkte Runde1"
+  #map: phase1_vitalground
+  time_frame: Monat Februar
+  paring_data: phase5

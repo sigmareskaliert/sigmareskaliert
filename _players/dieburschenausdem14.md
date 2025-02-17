@@ -5,5 +5,5 @@ displayname: Die Burschen aus dem 14
 army: Disciples of Tzeentch & Sons of Behemat
 team: Die Burschen & dem 14
 filename: dieburschenausdem14
-phases: [1,2]
+phases: [1,2,5]
 ---
