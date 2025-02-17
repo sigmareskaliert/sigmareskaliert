@@ -23,6 +23,12 @@ var store = [{
         "url": "/sigmareskaliert/paarungen/phase4-paarung",
         "teaser": null
       },{
+        "title": "Phase5_paarung",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/sigmareskaliert/paarungen/phase5-paarung",
+        "teaser": null
+      },{
         "title": "Allesgrau",
         "excerpt":" ","categories": [],
         "tags": [],
@@ -195,5 +201,11 @@ var store = [{
         "excerpt":" ","categories": [],
         "tags": [],
         "url": "/sigmareskaliert/ranglisten/phase4-rangliste",
+        "teaser": null
+      },{
+        "title": "Phase5_rangliste",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/sigmareskaliert/ranglisten/phase5-rangliste",
         "teaser": null
       }]
