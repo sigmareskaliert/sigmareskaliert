@@ -1,9 +1,9 @@
 player_a,player_b,present_a,present_a_r2,present_b,present_b_r2,painted_a,painted_b,present_a_p2,present_a_p2_r2,present_b_p2,present_b_p2_r2,painted_a_p2,painted_b_p2,winner,winner_p2,winner_r2,winner_p2_r2,teamwin,score
-sonsofdeepkin,bananenbrot
-lustrians,brothersofchaos
-bonestodarkness,heiligshaemmerle
-ratsandladz,greyarmychads
-allesgrau,moremorewaaagh
-die2vonder3,disgustinglyhungry
-schuppenbrueder,dieburschenausdem14
+sonsofdeepkin,bananenbrot,true,true,true,true,,,,,,,,,bananenbrot,bananenbrot,,,,
+lustrians,brothersofchaos,true,true,true,true,true,,true,true,true,true,,,lustrians,brothersofchaos,brothersofchaos,brothersofchaos,brothersofchaos
+bonestodarkness,heiligshaemmerle,true,true,true,true,,true,,,,,,,heiligshaemmerle,heiligshaemmerle,,,,
+ratsandladz,greyarmychads,true,true,true,true,,,true,true,true,true,,,greyarmychads,greyarmychads,ratsandladz,ratsandladz,,
+allesgrau,moremorewaaagh,true,true,true,true,,,true,true,,,,,moremorewaaagh,moremorewaaagh,allesgrau,,,
+die2vonder3,disgustinglyhungry,,true,,true,true,,true,true,true,true,,,,die2vonder3,disgustinglyhungry,disgustinglyhungry,disgustinglyhungry
+schuppenbrueder,dieburschenausdem14,,,,,true,,,,,,,,schuppenbrueder,schuppenbrueder,schuppenbrueder,schuppenbrueder,schuppenbrueder
 skylizard,offen1

@@ -5,5 +5,5 @@ displayname: Brothers of Chaos
 army: Skaven & Slaves to Darkness
 team: Brothers of Chaos
 filename: brothersofchaos
-phases: [1,2,3,4,5]
+phases: [1,2,3,4,5,6]
 ---

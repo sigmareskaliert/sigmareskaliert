@@ -5,5 +5,5 @@ displayname: Grey Army Chads
 army: Daughter of Khaine & Seraphon
 team: Grey Army Chads
 filename: greyarmychads
-phases: [1,2,3,4,5]
+phases: [1,2,3,4,5,6]
 ---
